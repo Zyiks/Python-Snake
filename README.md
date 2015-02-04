@@ -1,0 +1,2 @@
+# Python-Snake
+Kooli projekt
